@@ -218,11 +218,7 @@ Ce portfolio démontre mon engagement envers:
 
 ---
 
-## 📄 License
 
-MIT - Libre d'utilisation et de modification
-
----
 
 <div align="center">
 
